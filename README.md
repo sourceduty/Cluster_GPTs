@@ -15,6 +15,11 @@ Create a Sourceduty GPT organization interface cluster for images.
 ```
 
 #
+### Clusters
+
+A custom GPT cluster program is an organized collection of specialized AI models (GPTs) grouped together to address a particular domain, task set, or workflow. Each cluster comprises carefully selected custom GPTs tailored to specific needs, such as technical support, creative assistance, or educational guidance. The goal is to enhance efficiency, provide targeted responses, and streamline processes by combining multiple specialized GPTs that each bring unique functionalities to the cluster. For example, a customer support cluster might include GPTs focused on troubleshooting, account management, and product recommendations, working collaboratively to handle a wide range of user inquiries seamlessly. Clusters are structured to facilitate cohesive, multi-GPT interactions, allowing users to access diverse AI capabilities under a unified program for more comprehensive support and outcomes.
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
