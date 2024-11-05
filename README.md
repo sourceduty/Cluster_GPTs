@@ -1,4 +1,4 @@
-![Cluster GPTs](https://github.com/user-attachments/assets/d6ce6b2c-4307-46f7-b8d2-b2f129ce398c)
+![Cluster GPTs](https://github.com/user-attachments/assets/9b7cf89c-6c4c-4e46-aa1a-f9dcb9288ec0)
 
 > Cluster custom GPTs using automatic Sourceduty selection. Experimental programming.
 #
