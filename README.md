@@ -9,6 +9,8 @@ Through a step-by-step, question-based refinement process, this custom GPT helps
 
 ```
 Plan and develop a Sourceduty GPT organization interface cluster.
+Plan and develop a Sourceduty GPT organization interface cluster for blogging.
+Plan and develop a Sourceduty GPT organization interface cluster for content creation.
 ```
 
 #
