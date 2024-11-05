@@ -7,6 +7,10 @@
 
 Through a step-by-step, question-based refinement process, this custom GPT helps users clarify their cluster requirements by prompting them to describe their primary goals and any necessary criteria. As it gathers relevant preferences, it fetches, filters, and presents a refined list of suitable GPTs from the Sourceduty repository, including direct links for easy access. This makes it an invaluable resource for anyone looking to leverage AI tools in a structured, collaborative manner, supporting targeted workflows with carefully selected AI capabilities designed to operate harmoniously as a custom suite of solutions.
 
+```
+Plan and develop a Sourceduty GPT organization interface cluster.
+```
+
 #
 ### Related Links
 
