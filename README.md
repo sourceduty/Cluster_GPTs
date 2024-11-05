@@ -1,6 +1,6 @@
 ![Cluster GPTs](https://github.com/user-attachments/assets/d6ce6b2c-4307-46f7-b8d2-b2f129ce398c)
 
-> Cluster custom GPTs using automatic Sourceduty selection.
+> Cluster custom GPTs using automatic Sourceduty selection. Experimental programming.
 #
 
 [Clustered](https://chatgpt.com/g/g-oiB0KPuBF-clustered) specializes in assisting users in creating thematic clusters of OpenAI custom GPTs from the Sourceduty custom GPT repository. It guides users through selecting relevant custom GPTs to assemble into cohesive groups based on specific objectives or domains, such as education, creative work, technical support, or other specialized tasks. By narrowing down the options in the repository based on user-defined criteria, this GPT provides a streamlined approach to organizing multiple GPTs into tailored "clusters" that can work together to achieve specific goals. It leverages the Sourceduty repository as a source of GPT options, ensuring that every recommended tool aligns with the user's intended functionality.
